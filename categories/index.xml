@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on YUKI-Blog</title>
-    <link>https://itsyuimorii.github.io/itsyukispace.tech/categories/</link>
+    <link>https://itsyukispace.tech/categories/</link>
     <description>Recent content in Categories on YUKI-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://itsyuimorii.github.io/itsyukispace.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://itsyukispace.tech/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
